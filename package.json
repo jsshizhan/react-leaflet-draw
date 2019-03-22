@@ -63,5 +63,9 @@
     "react-leaflet": "^1.1.0",
     "webpack": "^1.13.0",
     "webpack-dev-server": "^1.12.1"
-  }
+  },
+  "publishConfig": {
+    "registry": "http://192.168.1.101:8081/repository/npm-hosted/"
+  },
+  "dependencies": {}
 }
